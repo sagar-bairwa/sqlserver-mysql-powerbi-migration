@@ -94,6 +94,29 @@ sqlserver-to-mysql-powerbi-migration
 
 ---
 
+# Screenshots
+
+## SQL Server - Production Environment
+
+![SQL Server](screenshots/ms_sql.png)
+
+
+---
+
+## Power BI Desktop
+
+![Power BI](screenshots/dax_functions.png)
+
+
+---
+
+## Scheduled Refresh
+
+![Scheduled Refresh](screenshots/powerbi_scheduled_referesh.png)
+
+---
+
+
 # Implementation Steps
 
 ## 1. Test Environment Setup
@@ -136,27 +159,6 @@ sqlserver-to-mysql-powerbi-migration
 
 ---
 
-# Screenshots
-
-## SQL Server - Production Environment
-
-![SQL Server](screenshots/ms_sql.png)
-
-
----
-
-## Power BI Desktop
-
-![Power BI](screenshots/dax_functions.png)
-
-
----
-
-## Scheduled Refresh
-
-![Scheduled Refresh](screenshots/powerbi_scheduled_referesh.png)
-
----
 
 # Skills Demonstrated
 
