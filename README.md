@@ -75,56 +75,6 @@ The workflow includes:
 
 ---
 
-# Migration Strategy
-
-```text
-Development
-        │
-        ▼
-SQL Server (Test Environment)
-
-        │
-        ▼
-SQL Cleaning & Transformations
-
-        │
-        ▼
-Power BI Desktop
-
-        │
-        ▼
-SQL Server (Production Environment)
-
-        │
-        ▼
-Reuse Existing Report
-
-        │
-        ▼
-Database Migration
-
-        │
-        ▼
-MySQL
-
-        │
-        ▼
-Power Query Advanced Editor
-
-        │
-        ▼
-Power BI Service
-
-        │
-        ▼
-On-Premises Gateway
-
-        │
-        ▼
-Scheduled Refresh
-```
-
----
 
 # Business Benefits
 
