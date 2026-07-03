@@ -30,7 +30,7 @@ The project follows a real-world migration workflow involving **Test & Productio
 
 # Migration Workflow
 
-![Migration Workflow](screenshots/migration_workflow.png)
+![Migration Workflow](screenshots/workflow.png)
 
 ---
 
